@@ -1,0 +1,501 @@
+user_message,anger_level,frustration_level,anxiety_level,calm_level,sentiment_negative,sentiment_neutral,sentiment_positive,intent,urgency,agent_emotion,tone,empathy_level,verbosity,formality,assertiveness,apology_required,reassurance_level,solution_speed,boundary_setting,explanation_depth
+I can't believe how poorly I've been treated. This is ridiculous!,0.625,0.97,0.393,0.18,0.578,0.047,0.012,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+What are the available options for billing?,0.173,0.12,0.283,0.51,0.391,0.633,0.164,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+Your support team is fantastic. Keep up the great work!,0.018,0.018,0.061,0.857,0.043,0.058,0.884,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I need to speak to a supervisor immediately.,0.57,0.717,0.347,0.091,0.893,0.06,0.103,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+Your product broke after just 10 days. I want a full refund immediately.,0.755,0.428,0.343,0.051,0.533,0.285,0.193,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+"I was worried, but you fixed everything perfectly. Thank you!",0.081,0.03,0.02,0.905,0.044,0.024,0.849,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I've had enough of the runaround. Escalate this immediately.,0.517,0.964,0.304,0.133,0.656,0.156,0.109,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+Thank you so much! John was incredibly helpful!,0.018,0.097,0.155,0.982,0.089,0.12,0.977,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I want this escalated to your highest level. This is unacceptable.,0.544,0.678,0.218,0.065,0.694,0.081,0.166,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+Is it possible to change my subscription to the premium plan?,0.071,0.056,0.217,0.57,0.341,0.33,0.396,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I'm extremely disappointed with your service. My order #24680 is delayed.,0.863,0.519,0.102,0.245,0.853,0.219,0.154,complaint,medium,sad,calm,high,medium,high,high,True,low,normal,True,low
+I've spent 6 hours trying to resolve this issue with no success.,0.444,0.615,0.146,0.259,0.812,0.099,0.013,complaint,high,empathetic,calm,high,low,high,medium,True,low,fast,False,low
+I'm extremely disappointed with your service. My order #11111 is delayed.,0.587,0.595,0.392,0.191,0.944,0.142,0.024,complaint,medium,neutral,neutral,medium,medium,high,medium,True,medium,normal,False,low
+Your support team is fantastic. Keep up the great work!,0.071,0.076,0.112,0.931,0.049,0.105,0.828,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I'd like to know more about your premium service. Can you help?,0.005,0.022,0.013,0.818,0.194,0.503,0.372,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I'd like to know more about your basic service. Can you help?,0.05,0.082,0.302,0.614,0.123,0.416,0.148,inquiry,medium,neutral,neutral,low,medium,low,low,False,medium,normal,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.958,0.885,0.353,0.261,0.902,0.056,0.179,complaint,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+I read the FAQ but I'm still confused about returns.,0.162,0.423,0.558,0.427,0.133,0.391,0.228,clarification,low,calm,neutral,medium,high,low,low,False,high,slow,False,high
+The instructions are confusing. Can you explain step 3 again?,0.245,0.444,0.203,0.504,0.225,0.389,0.136,clarification,high,neutral,neutral,medium,low,low,low,False,low,fast,False,high
+I appreciate the prompt response. You guys are great!,0.034,0.094,0.065,0.856,0.07,0.073,0.992,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+What's the expected delivery time for rural areas?,0.192,0.05,0.199,0.65,0.185,0.315,0.283,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Kudos to your team for going above and beyond!,0.05,0.005,0.056,0.972,0.024,0.029,0.847,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+This is unacceptable! I've been waiting for 5 days and still no response.,0.991,0.545,0.369,0.228,0.619,0.218,0.074,complaint,low,sad,calm,high,high,high,high,True,medium,slow,True,low
+"Sorry, I'm not sure what you mean by 'webhook'. Can you explain?",0.19,0.353,0.414,0.336,0.351,0.428,0.156,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+I have a question about my recent bill. Can someone explain it?,0.008,0.118,0.271,0.508,0.254,0.391,0.294,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I've had enough of the runaround. Escalate this immediately.,0.587,0.876,0.355,0.187,0.569,0.102,0.023,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+What are the available options for shipping?,0.185,0.175,0.103,0.83,0.345,0.522,0.259,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+This was the best customer service experience I've ever had!,0.024,0.009,0.179,0.97,0.063,0.068,0.805,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+Your support team is fantastic. Keep up the great work!,0.073,0.09,0.177,0.934,0.064,0.017,0.748,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.949,0.843,0.204,0.02,0.832,0.002,0.032,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+I just wanted to say how impressed I am with your service.,0.055,0.069,0.13,0.767,0.071,0.047,0.798,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Why hasn't anyone fixed my problem yet? This is the 4th time I'm contacting you!,0.848,0.79,0.44,0.197,0.784,0.028,0.074,complaint,low,sad,calm,high,high,high,high,True,medium,slow,True,low
+I'm so grateful for your help. You made my day!,0.027,0.024,0.195,0.818,0.089,0.126,0.938,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I've had enough of the runaround. Escalate this immediately.,0.751,0.831,0.397,0.039,0.861,0.084,0.005,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+I just wanted to say how impressed I am with your service.,0.065,0.018,0.188,0.986,0.091,0.074,0.705,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Kudos to your team for going above and beyond!,0.093,0.043,0.193,0.989,0.085,0.059,0.816,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.911,0.59,0.168,0.167,0.968,0.209,0.114,complaint,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+I want this escalated to your highest level. This is unacceptable.,0.549,0.846,0.596,0.028,0.759,0.263,0.148,escalation_request,low,empathetic,calm,high,high,high,high,True,high,slow,False,low
+"I was worried, but you fixed everything perfectly. Thank you!",0.07,0.07,0.072,0.788,0.081,0.162,0.96,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.948,0.707,0.301,0.239,0.825,0.211,0.159,complaint,high,empathetic,calm,high,low,high,high,True,medium,fast,True,low
+What are the available options for billing?,0.178,0.068,0.15,0.547,0.273,0.314,0.24,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Excellent service! I'll definitely recommend you to others.,0.054,0.029,0.118,0.709,0.004,0.165,0.808,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+My account has been charged incorrectly 4 times now. Fix this!,0.476,0.713,0.408,0.065,0.811,0.026,0.01,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+I'm interested in learning about your pricing plans.,0.106,0.108,0.255,0.863,0.393,0.507,0.197,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I just wanted to say how impressed I am with your service.,0.08,0.027,0.088,0.724,0.003,0.193,0.951,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I want to file a formal complaint and speak to a supervisor.,0.848,0.764,0.269,0.031,0.625,0.165,0.143,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+I have a question about my recent bill. Can someone explain it?,0.132,0.056,0.382,0.869,0.266,0.545,0.226,inquiry,high,neutral,neutral,low,low,low,low,False,medium,fast,False,low
+This was the best customer service experience I've ever had!,0.025,0.036,0.152,0.704,0.012,0.009,0.712,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I'm so grateful for your help. You made my day!,0.086,0.07,0.095,0.729,0.049,0.095,0.752,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I'm interested in learning about your pricing plans.,0.087,0.08,0.246,0.818,0.114,0.45,0.288,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I read the FAQ but I'm still confused about upgrades.,0.151,0.443,0.463,0.365,0.121,0.557,0.108,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+I just wanted to say how impressed I am with your service.,0.059,0.094,0.115,0.816,0.064,0.092,0.864,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I'd like to know more about your enterprise service. Can you help?,0.188,0.077,0.384,0.953,0.159,0.328,0.13,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.411,0.457,0.373,0.021,0.659,0.253,0.005,complaint,high,calm,neutral,medium,low,high,medium,True,medium,fast,False,low
+I'm interested in learning about your pricing plans.,0.163,0.056,0.047,0.848,0.289,0.651,0.321,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+This is unacceptable! I've been waiting for 3 days and still no response.,0.882,0.569,0.171,0.225,0.903,0.297,0.083,complaint,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+I'm extremely disappointed with your service. My order #11111 is missing.,0.623,0.866,0.236,0.279,0.929,0.129,0.15,complaint,medium,empathetic,calm,high,medium,high,medium,True,low,normal,False,low
+I'm not tech-savvy. Could you explain this in simpler terms?,0.226,0.141,0.561,0.502,0.348,0.428,0.369,clarification,high,calm,neutral,low,low,low,low,False,high,fast,False,high
+Your support team is fantastic. Keep up the great work!,0.039,0.001,0.181,0.727,0.032,0.19,0.985,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I appreciate the prompt response. You guys are great!,0.057,0.063,0.09,0.788,0.033,0.135,0.926,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.896,0.916,0.236,0.099,0.529,0.165,0.088,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.933,0.611,0.147,0.043,0.881,0.185,0.02,complaint,high,sad,calm,high,low,high,high,True,low,fast,True,low
+I've had enough of the runaround. Escalate this immediately.,0.542,0.88,0.229,0.164,0.853,0.024,0.017,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+I'm extremely disappointed with your service. My order #12345 is wrong item.,0.992,0.625,0.248,0.244,0.974,0.296,0.151,complaint,high,sad,calm,high,low,high,high,True,low,fast,True,low
+Your product broke after just 3 days. I want a full refund immediately.,0.626,0.45,0.411,0.168,0.712,0.272,0.022,complaint,low,neutral,calm,high,high,high,medium,True,medium,slow,False,low
+Your team resolved my issue so quickly. Amazing!,0.049,0.001,0.094,0.717,0.012,0.024,0.895,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I want this escalated to your highest level. This is unacceptable.,0.873,0.833,0.585,0.075,0.643,0.261,0.045,escalation_request,low,sad,calm,high,high,high,high,True,high,slow,True,low
+I have a question about my recent bill. Can someone explain it?,0.193,0.002,0.388,0.522,0.367,0.511,0.398,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+Thank you so much! Emily was incredibly helpful!,0.007,0.055,0.194,0.857,0.063,0.139,0.836,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Your product broke after just 3 days. I want a full refund immediately.,0.777,0.751,0.46,0.014,0.64,0.285,0.178,complaint,low,sad,calm,high,high,high,medium,True,medium,slow,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.728,0.848,0.311,0.038,0.732,0.106,0.117,escalation_request,medium,sad,calm,high,medium,high,high,True,medium,normal,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.447,0.985,0.494,0.209,0.768,0.093,0.163,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.811,0.498,0.464,0.247,0.975,0.218,0.123,complaint,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+What exactly do I need to do to resolve this issue?,0.125,0.473,0.546,0.318,0.108,0.451,0.343,clarification,medium,reassuring,neutral,medium,medium,low,low,False,high,normal,False,high
+Could you explain how the auto-renewal feature works?,0.197,0.03,0.238,0.69,0.391,0.637,0.351,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.681,0.649,0.209,0.017,0.932,0.244,0.2,complaint,high,empathetic,calm,high,low,high,medium,True,low,fast,False,low
+My account has been charged incorrectly 2 times now. Fix this!,0.998,0.733,0.408,0.283,0.925,0.074,0.09,complaint,high,empathetic,calm,high,low,high,high,True,medium,fast,True,low
+"I was worried, but you fixed everything perfectly. Thank you!",0.013,0.095,0.121,0.769,0.067,0.124,0.807,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Thank you so much! Emily was incredibly helpful!,0.011,0.067,0.104,0.932,0.052,0.17,0.866,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I'm extremely disappointed with your service. My order #11111 is damaged.,0.737,0.926,0.261,0.04,0.514,0.227,0.124,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+This needs management attention. Regular support isn't cutting it.,0.852,0.685,0.255,0.003,0.675,0.177,0.078,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+Thank you so much! Emily was incredibly helpful!,0.044,0.09,0.07,0.854,0.078,0.079,0.887,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+Nobody seems to care about my problem. I've been passed around 4 times.,0.917,0.97,0.159,0.278,0.746,0.077,0.092,complaint,medium,sad,calm,high,medium,high,high,True,low,normal,True,low
+Is it possible to change my subscription to the premium plan?,0.196,0.099,0.132,0.817,0.172,0.33,0.139,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I followed your advice but it didn't work. What am I missing?,0.038,0.161,0.256,0.556,0.155,0.438,0.369,clarification,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,high
+I read the FAQ but I'm still confused about billing.,0.142,0.367,0.269,0.377,0.112,0.368,0.184,clarification,medium,neutral,neutral,medium,medium,low,low,False,low,normal,False,high
+Nobody seems to care about my problem. I've been passed around 2 times.,0.506,0.453,0.148,0.138,0.603,0.109,0.101,complaint,medium,neutral,neutral,medium,medium,high,medium,True,low,normal,False,low
+Your product broke after just 10 days. I want a full refund immediately.,0.814,0.424,0.42,0.188,0.541,0.262,0.184,complaint,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+I'd like to know more about your basic service. Can you help?,0.012,0.055,0.322,0.874,0.155,0.384,0.211,inquiry,medium,neutral,neutral,low,medium,low,low,False,medium,normal,False,low
+I followed your advice but it didn't work. What am I missing?,0.145,0.347,0.348,0.485,0.324,0.315,0.176,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+I want this escalated to your highest level. This is unacceptable.,0.857,0.958,0.405,0.106,0.554,0.134,0.107,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,True,low
+I just wanted to say how impressed I am with your service.,0.024,0.027,0.075,0.706,0.032,0.042,0.798,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I'd like to know more about your premium service. Can you help?,0.024,0.178,0.237,0.84,0.337,0.499,0.126,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+This was the best customer service experience I've ever had!,0.054,0.059,0.149,0.829,0.013,0.057,0.809,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+"Sorry, I'm not sure what you mean by 'webhook'. Can you explain?",0.194,0.328,0.342,0.695,0.282,0.395,0.131,clarification,high,reassuring,neutral,medium,low,low,low,False,medium,fast,False,high
+Could you explain how the data export feature works?,0.031,0.049,0.064,0.593,0.186,0.369,0.369,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I need to speak to a supervisor immediately.,0.54,0.81,0.364,0.196,0.556,0.119,0.194,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.919,0.89,0.203,0.051,0.834,0.279,0.111,complaint,high,sad,calm,high,low,high,high,True,low,fast,True,low
+My account has been charged incorrectly 3 times now. Fix this!,0.743,0.568,0.408,0.056,0.662,0.128,0.102,complaint,low,sad,calm,high,high,high,medium,True,medium,slow,False,low
+I have a question about my recent bill. Can someone explain it?,0.048,0.023,0.244,0.644,0.274,0.362,0.244,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I'm so grateful for your help. You made my day!,0.053,0.005,0.067,0.74,0.006,0.198,0.797,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I just wanted to say how impressed I am with your service.,0.081,0.025,0.136,0.928,0.06,0.094,0.824,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Why hasn't anyone fixed my problem yet? This is the 3rd time I'm contacting you!,0.609,0.958,0.432,0.29,0.562,0.219,0.188,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+What exactly do I need to do to resolve this issue?,0.054,0.127,0.496,0.53,0.353,0.356,0.339,clarification,high,reassuring,neutral,low,low,low,low,False,medium,fast,False,high
+What are the available options for billing?,0.04,0.033,0.066,0.907,0.3,0.509,0.208,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.263,0.257,0.527,0.476,0.213,0.485,0.19,clarification,medium,reassuring,neutral,low,medium,low,low,False,high,normal,False,high
+I'm interested in learning about your pricing plans.,0.15,0.101,0.093,0.95,0.215,0.517,0.372,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.775,0.47,0.476,0.188,0.667,0.042,0.159,complaint,medium,sad,calm,high,medium,high,medium,True,medium,normal,False,low
+Your team resolved my issue so quickly. Amazing!,0.062,0.053,0.179,0.937,0.015,0.062,0.775,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+What are the available options for upgrades?,0.149,0.007,0.228,0.881,0.363,0.437,0.346,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+My account has been charged incorrectly 5 times now. Fix this!,0.466,0.908,0.151,0.119,0.899,0.045,0.046,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+What are the available options for billing?,0.144,0.144,0.256,0.847,0.263,0.401,0.204,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I've had enough of the runaround. Escalate this immediately.,0.591,0.963,0.433,0.08,0.731,0.284,0.031,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+I have a question about my recent bill. Can someone explain it?,0.117,0.101,0.245,0.509,0.362,0.673,0.27,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+"Sorry, I'm not sure what you mean by 'integration'. Can you explain?",0.209,0.469,0.483,0.361,0.273,0.543,0.227,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+Your product broke after just 7 days. I want a full refund immediately.,0.842,0.961,0.47,0.135,0.557,0.295,0.168,complaint,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+The error message says 'Invalid credentials'. What does this mean?,0.037,0.468,0.548,0.508,0.277,0.46,0.116,clarification,low,reassuring,neutral,medium,high,low,low,False,high,slow,False,high
+Thank you so much! Sarah was incredibly helpful!,0.034,0.08,0.001,0.8,0.04,0.107,0.976,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I'm lost. Can you help me understand what went wrong?,0.104,0.239,0.495,0.481,0.167,0.481,0.142,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+The instructions are confusing. Can you explain step 5 again?,0.053,0.299,0.368,0.666,0.209,0.532,0.29,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+I read the FAQ but I'm still confused about upgrades.,0.004,0.365,0.271,0.684,0.145,0.466,0.126,clarification,high,neutral,neutral,medium,low,low,low,False,low,fast,False,high
+I just wanted to say how impressed I am with your service.,0.1,0.05,0.119,0.72,0.075,0.042,0.969,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.603,0.676,0.215,0.094,0.782,0.02,0.155,escalation_request,high,empathetic,calm,high,low,high,high,True,low,fast,False,low
+Can you walk me through the process one more time?,0.136,0.31,0.376,0.46,0.268,0.362,0.155,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+This is the worst customer experience I've ever had. Completely unacceptable.,0.917,0.968,0.249,0.081,0.822,0.123,0.005,complaint,high,empathetic,calm,high,low,high,high,True,low,fast,True,low
+The instructions are confusing. Can you explain step 4 again?,0.047,0.386,0.464,0.311,0.167,0.392,0.302,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+I just wanted to say how impressed I am with your service.,0.002,0.01,0.16,0.754,0.065,0.048,0.73,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+The error message says 'Access denied'. What does this mean?,0.073,0.389,0.542,0.632,0.219,0.567,0.161,clarification,high,reassuring,neutral,medium,low,low,low,False,high,fast,False,high
+The error message says 'Access denied'. What does this mean?,0.088,0.459,0.205,0.334,0.162,0.311,0.154,clarification,medium,neutral,neutral,medium,medium,low,low,False,low,normal,False,high
+What's the expected delivery time for express delivery?,0.117,0.084,0.357,0.909,0.203,0.404,0.214,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+I demand to speak with someone who can actually help me.,0.795,0.707,0.45,0.082,0.776,0.131,0.059,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+I need to speak to a supervisor immediately.,0.974,0.905,0.256,0.174,0.744,0.268,0.16,escalation_request,high,sad,calm,high,low,high,high,True,low,fast,True,low
+Can you walk me through the process one more time?,0.128,0.109,0.307,0.517,0.29,0.403,0.142,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+Kudos to your team for going above and beyond!,0.083,0.098,0.105,0.752,0.027,0.004,0.974,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I've had enough of the runaround. Escalate this immediately.,0.559,0.831,0.31,0.111,0.826,0.249,0.041,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+I have a question about my recent bill. Can someone explain it?,0.002,0.027,0.36,0.937,0.279,0.54,0.3,inquiry,high,neutral,neutral,low,low,low,low,False,medium,fast,False,low
+I'd like to know more about your enterprise service. Can you help?,0.035,0.183,0.168,0.692,0.256,0.319,0.15,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+Your support team is fantastic. Keep up the great work!,0.074,0.008,0.121,0.774,0.039,0.058,0.807,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+"Sorry, I'm not sure what you mean by 'webhook'. Can you explain?",0.216,0.219,0.427,0.49,0.299,0.675,0.32,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+What are the available options for billing?,0.043,0.006,0.105,0.798,0.115,0.499,0.279,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I've spent 6 hours trying to resolve this issue with no success.,0.601,0.863,0.143,0.023,0.864,0.149,0.138,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.661,0.548,0.428,0.24,0.847,0.082,0.118,complaint,medium,neutral,calm,high,medium,high,medium,True,medium,normal,False,low
+I'm so grateful for your help. You made my day!,0.036,0.009,0.183,0.741,0.095,0.089,0.756,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.771,0.949,0.493,0.161,0.829,0.208,0.17,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.55,0.694,0.188,0.296,0.972,0.012,0.141,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+How do I update my account information?,0.185,0.036,0.227,0.958,0.11,0.579,0.189,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I want to file a formal complaint and speak to a supervisor.,0.962,0.988,0.578,0.095,0.931,0.253,0.064,escalation_request,low,empathetic,calm,high,high,high,high,True,high,slow,True,low
+Why hasn't anyone fixed my problem yet? This is the 6th time I'm contacting you!,0.897,0.422,0.339,0.069,0.56,0.023,0.139,complaint,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+I want to file a formal complaint and speak to a supervisor.,0.67,0.89,0.226,0.063,0.77,0.237,0.064,escalation_request,high,empathetic,calm,high,low,high,high,True,low,fast,False,low
+I've had enough of the runaround. Escalate this immediately.,0.813,0.954,0.446,0.047,0.512,0.261,0.004,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,True,low
+I want this escalated to your highest level. This is unacceptable.,0.937,0.812,0.576,0.16,0.999,0.105,0.153,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,True,low
+I'm not tech-savvy. Could you explain this in simpler terms?,0.121,0.292,0.451,0.649,0.395,0.607,0.225,clarification,high,reassuring,neutral,low,low,low,low,False,medium,fast,False,high
+I have a question about my recent bill. Can someone explain it?,0.084,0.148,0.096,0.555,0.206,0.415,0.189,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.54,0.425,0.107,0.296,0.714,0.115,0.136,complaint,high,calm,neutral,medium,low,high,medium,True,low,fast,False,low
+Is it possible to change my subscription to the professional plan?,0.044,0.19,0.315,0.545,0.225,0.652,0.383,inquiry,medium,neutral,neutral,low,medium,low,low,False,medium,normal,False,low
+Your team resolved my issue so quickly. Amazing!,0.047,0.061,0.033,0.997,0.023,0.189,0.895,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+What's the expected delivery time for express delivery?,0.122,0.103,0.092,0.588,0.166,0.375,0.334,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I'm interested in learning about your pricing plans.,0.07,0.012,0.388,0.942,0.378,0.698,0.152,inquiry,high,neutral,neutral,low,low,low,low,False,medium,fast,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.638,0.855,0.378,0.046,0.908,0.067,0.045,complaint,medium,empathetic,calm,high,medium,high,medium,True,medium,normal,False,low
+I'm not tech-savvy. Could you explain this in simpler terms?,0.161,0.337,0.432,0.337,0.363,0.406,0.139,clarification,high,calm,neutral,medium,low,low,low,False,medium,fast,False,high
+Your representatives have been unhelpful. Get me a manager now.,0.944,0.982,0.545,0.162,0.828,0.165,0.017,escalation_request,low,sad,calm,high,high,high,high,True,high,slow,True,low
+I need to speak to a supervisor immediately.,0.704,0.749,0.304,0.145,0.748,0.024,0.044,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.842,0.63,0.54,0.099,0.74,0.178,0.165,escalation_request,low,sad,calm,high,high,high,high,True,high,slow,True,low
+I want to file a formal complaint and speak to a supervisor.,0.674,0.871,0.426,0.053,0.939,0.239,0.132,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+I appreciate the prompt response. You guys are great!,0.085,0.087,0.142,0.951,0.07,0.136,0.886,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I want this escalated to your highest level. This is unacceptable.,0.876,0.663,0.552,0.174,0.515,0.248,0.026,escalation_request,low,sad,calm,high,high,high,high,True,high,slow,True,low
+Connect me to someone senior who has the authority to fix this.,0.668,0.897,0.264,0.164,0.916,0.152,0.001,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,False,low
+Can you walk me through the process one more time?,0.086,0.347,0.592,0.553,0.178,0.554,0.262,clarification,high,calm,neutral,medium,low,low,low,False,high,fast,False,high
+This needs management attention. Regular support isn't cutting it.,0.89,0.643,0.504,0.108,0.981,0.103,0.127,escalation_request,low,empathetic,calm,high,high,high,high,True,high,slow,True,low
+This needs management attention. Regular support isn't cutting it.,0.966,0.641,0.575,0.138,0.534,0.09,0.142,escalation_request,high,empathetic,calm,high,low,high,high,True,high,fast,True,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.44,0.749,0.238,0.186,0.523,0.261,0.195,complaint,high,empathetic,calm,high,low,high,medium,True,low,fast,False,low
+What are the available options for billing?,0.194,0.15,0.052,0.879,0.107,0.309,0.197,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I read the FAQ but I'm still confused about shipping.,0.147,0.408,0.473,0.478,0.182,0.699,0.228,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+"If this isn't resolved today, I'm taking this to consumer protection.",0.726,0.665,0.518,0.139,0.61,0.025,0.136,escalation_request,medium,sad,calm,high,medium,high,high,True,high,normal,False,low
+The error message says 'Connection timeout'. What does this mean?,0.196,0.209,0.58,0.36,0.23,0.677,0.226,clarification,medium,reassuring,neutral,low,medium,low,low,False,high,normal,False,high
+This is the worst customer experience I've ever had. Completely unacceptable.,0.783,0.639,0.21,0.295,0.705,0.268,0.046,complaint,high,empathetic,calm,high,low,high,medium,True,low,fast,False,low
+The instructions are confusing. Can you explain step 2 again?,0.064,0.112,0.461,0.447,0.359,0.489,0.39,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+Your product broke after just 2 days. I want a full refund immediately.,0.511,0.921,0.411,0.231,0.922,0.228,0.125,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+I appreciate the prompt response. You guys are great!,0.013,0.003,0.184,0.885,0.08,0.096,0.735,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I'd like to know more about your basic service. Can you help?,0.025,0.137,0.172,0.6,0.247,0.326,0.275,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I want this escalated to your highest level. This is unacceptable.,0.634,0.919,0.324,0.091,0.506,0.022,0.078,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+I'm lost. Can you help me understand what went wrong?,0.144,0.34,0.317,0.578,0.358,0.612,0.112,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+I just wanted to say how impressed I am with your service.,0.048,0.01,0.048,0.996,0.014,0.1,0.885,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I'd like to know more about your premium service. Can you help?,0.14,0.112,0.004,0.663,0.255,0.335,0.205,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Can you walk me through the process one more time?,0.01,0.131,0.359,0.353,0.27,0.576,0.34,clarification,high,calm,neutral,low,low,low,low,False,medium,fast,False,high
+Your representatives have been unhelpful. Get me a manager now.,0.6,0.667,0.242,0.127,0.853,0.009,0.187,escalation_request,high,empathetic,calm,high,low,high,high,True,low,fast,False,low
+Your product broke after just 2 days. I want a full refund immediately.,0.431,0.725,0.384,0.261,0.857,0.241,0.068,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+I'm lost. Can you help me understand what went wrong?,0.244,0.132,0.558,0.519,0.345,0.481,0.293,clarification,high,calm,neutral,low,low,low,low,False,high,fast,False,high
+Kudos to your team for going above and beyond!,0.053,0.073,0.016,0.718,0.025,0.032,0.962,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Kudos to your team for going above and beyond!,0.022,0.098,0.067,0.755,0.079,0.132,0.849,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+My account has been charged incorrectly 2 times now. Fix this!,0.733,0.832,0.191,0.299,0.987,0.195,0.04,complaint,high,sad,calm,high,low,high,medium,True,low,fast,False,low
+Connect me to someone senior who has the authority to fix this.,0.84,0.629,0.212,0.052,0.731,0.26,0.145,escalation_request,low,sad,calm,high,high,high,high,True,low,slow,True,low
+I demand to speak with someone who can actually help me.,0.871,0.77,0.338,0.074,0.994,0.012,0.173,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+How do I update my account information?,0.116,0.088,0.29,0.743,0.362,0.66,0.227,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+What exactly do I need to do to resolve this issue?,0.083,0.337,0.565,0.384,0.287,0.553,0.32,clarification,high,calm,neutral,medium,low,low,low,False,high,fast,False,high
+Connect me to someone senior who has the authority to fix this.,0.566,0.886,0.564,0.036,0.619,0.291,0.036,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,False,low
+Kudos to your team for going above and beyond!,0.085,0.049,0.049,0.961,0.045,0.103,0.808,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Could you explain how the two-factor authentication feature works?,0.119,0.033,0.156,0.985,0.177,0.563,0.198,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+What are your business hours for customer support?,0.155,0.026,0.388,0.727,0.171,0.329,0.151,inquiry,medium,neutral,neutral,low,medium,low,low,False,medium,normal,False,low
+I'm so grateful for your help. You made my day!,0.052,0.034,0.166,0.829,0.025,0.123,0.912,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I'm not tech-savvy. Could you explain this in simpler terms?,0.05,0.167,0.215,0.595,0.299,0.49,0.353,clarification,low,neutral,neutral,low,high,low,low,False,low,slow,False,high
+I'm not tech-savvy. Could you explain this in simpler terms?,0.242,0.334,0.547,0.382,0.134,0.408,0.117,clarification,low,calm,neutral,medium,high,low,low,False,high,slow,False,high
+I read the FAQ but I'm still confused about returns.,0.159,0.475,0.216,0.349,0.236,0.674,0.195,clarification,medium,neutral,neutral,medium,medium,low,low,False,low,normal,False,high
+This was the best customer service experience I've ever had!,0.051,0.004,0.03,0.996,0.097,0.001,0.986,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+"I was worried, but you fixed everything perfectly. Thank you!",0.064,0.087,0.091,0.855,0.049,0.133,0.742,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I'm interested in learning about your pricing plans.,0.006,0.062,0.282,0.601,0.302,0.688,0.128,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I want to file a formal complaint and speak to a supervisor.,0.836,0.778,0.547,0.035,0.846,0.251,0.189,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,True,low
+I've had enough of the runaround. Escalate this immediately.,0.842,0.799,0.447,0.174,0.785,0.009,0.186,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.814,0.806,0.186,0.198,0.697,0.195,0.021,complaint,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+Your representatives have been unhelpful. Get me a manager now.,0.829,1.0,0.219,0.195,0.703,0.261,0.156,escalation_request,high,sad,calm,high,low,high,high,True,low,fast,True,low
+Excellent service! I'll definitely recommend you to others.,0.057,0.074,0.176,0.821,0.033,0.134,0.942,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Kudos to your team for going above and beyond!,0.076,0.08,0.087,0.945,0.012,0.109,0.702,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I want to file a formal complaint and speak to a supervisor.,0.662,0.747,0.358,0.139,0.694,0.135,0.048,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+I'm not tech-savvy. Could you explain this in simpler terms?,0.112,0.191,0.229,0.541,0.3,0.548,0.239,clarification,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,high
+The error message says 'Connection timeout'. What does this mean?,0.114,0.445,0.408,0.492,0.108,0.436,0.214,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+Your product broke after just 5 days. I want a full refund immediately.,0.639,0.748,0.313,0.182,0.882,0.244,0.144,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.973,0.411,0.178,0.002,0.824,0.269,0.049,complaint,high,empathetic,calm,high,low,high,high,True,low,fast,True,low
+I have a question about my recent bill. Can someone explain it?,0.185,0.012,0.374,0.676,0.13,0.494,0.177,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+I'm lost. Can you help me understand what went wrong?,0.085,0.223,0.521,0.516,0.193,0.544,0.315,clarification,high,reassuring,neutral,low,low,low,low,False,high,fast,False,high
+I can't believe how poorly I've been treated. This is ridiculous!,0.564,0.648,0.149,0.054,0.841,0.054,0.105,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+What are the available options for returns?,0.142,0.021,0.227,0.628,0.389,0.493,0.342,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.73,0.426,0.353,0.285,0.801,0.246,0.177,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.068,0.185,0.444,0.464,0.352,0.66,0.206,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+Your team resolved my issue so quickly. Amazing!,0.024,0.078,0.055,0.947,0.042,0.134,0.729,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I need to speak to a supervisor immediately.,0.812,0.781,0.435,0.034,0.868,0.259,0.043,escalation_request,low,sad,calm,high,high,high,high,True,medium,slow,True,low
+I've had enough of the runaround. Escalate this immediately.,0.548,0.609,0.457,0.121,0.773,0.07,0.078,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.178,0.299,0.595,0.355,0.309,0.462,0.228,clarification,low,reassuring,neutral,low,high,low,low,False,high,slow,False,high
+This has gone on too long. Please escalate my case to management.,0.859,0.877,0.597,0.026,0.552,0.217,0.116,escalation_request,low,sad,calm,high,high,high,high,True,high,slow,True,low
+This needs management attention. Regular support isn't cutting it.,0.637,0.632,0.234,0.179,0.596,0.097,0.045,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,False,low
+Why hasn't anyone fixed my problem yet? This is the 5th time I'm contacting you!,0.613,0.442,0.308,0.02,0.9,0.07,0.108,complaint,low,neutral,calm,high,high,high,medium,True,medium,slow,False,low
+I'm extremely disappointed with your service. My order #11111 is wrong item.,0.928,0.791,0.313,0.097,0.667,0.201,0.199,complaint,low,empathetic,calm,high,high,high,high,True,medium,slow,True,low
+Excellent service! I'll definitely recommend you to others.,0.066,0.056,0.146,0.84,0.006,0.112,0.987,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+This needs management attention. Regular support isn't cutting it.,0.588,0.876,0.28,0.107,0.548,0.135,0.151,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+This needs management attention. Regular support isn't cutting it.,0.674,0.866,0.518,0.185,0.617,0.12,0.03,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,False,low
+Your support team is fantastic. Keep up the great work!,0.099,0.093,0.108,0.953,0.052,0.125,0.727,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Your product broke after just 5 days. I want a full refund immediately.,0.853,0.477,0.43,0.235,0.854,0.011,0.061,complaint,low,empathetic,calm,high,high,high,high,True,medium,slow,True,low
+What are the available options for billing?,0.053,0.072,0.035,0.968,0.266,0.422,0.219,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+What's the expected delivery time for rural areas?,0.089,0.12,0.206,0.96,0.249,0.697,0.355,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+This was the best customer service experience I've ever had!,0.021,0.093,0.023,0.945,0.038,0.176,0.96,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.884,0.874,0.222,0.024,0.701,0.052,0.139,complaint,low,sad,calm,high,high,high,high,True,low,slow,True,low
+Your representatives have been unhelpful. Get me a manager now.,0.673,0.99,0.456,0.164,0.566,0.259,0.185,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+I'm lost. Can you help me understand what went wrong?,0.146,0.343,0.506,0.37,0.251,0.459,0.144,clarification,high,calm,neutral,medium,low,low,low,False,high,fast,False,high
+I'd like to know more about your basic service. Can you help?,0.074,0.014,0.01,0.568,0.389,0.52,0.39,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+What are the available options for billing?,0.086,0.062,0.202,0.72,0.132,0.556,0.165,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.772,0.79,0.161,0.018,0.89,0.138,0.012,complaint,low,sad,calm,high,high,high,medium,True,low,slow,False,low
+I've had enough of the runaround. Escalate this immediately.,0.997,0.623,0.478,0.197,0.62,0.043,0.024,escalation_request,low,sad,calm,high,high,high,high,True,medium,slow,True,low
+I want to file a formal complaint and speak to a supervisor.,0.652,0.64,0.477,0.012,0.755,0.299,0.163,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+Excellent service! I'll definitely recommend you to others.,0.062,0.031,0.125,0.858,0.043,0.026,0.966,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+This is unacceptable! I've been waiting for 7 days and still no response.,0.67,0.517,0.247,0.124,0.914,0.22,0.154,complaint,high,calm,calm,high,low,high,medium,True,low,fast,False,low
+The error message says 'Connection timeout'. What does this mean?,0.003,0.266,0.393,0.308,0.178,0.604,0.141,clarification,high,calm,neutral,low,low,low,low,False,medium,fast,False,high
+Nobody seems to care about my problem. I've been passed around 2 times.,0.721,0.529,0.105,0.072,0.988,0.24,0.192,complaint,low,sad,calm,high,high,high,medium,True,low,slow,False,low
+Your team resolved my issue so quickly. Amazing!,0.049,0.011,0.11,0.836,0.084,0.02,0.846,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I've had enough of the runaround. Escalate this immediately.,0.575,0.73,0.495,0.095,0.688,0.118,0.092,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+I'm lost. Can you help me understand what went wrong?,0.236,0.457,0.582,0.615,0.195,0.575,0.231,clarification,low,reassuring,neutral,medium,high,low,low,False,high,slow,False,high
+I've had enough of the runaround. Escalate this immediately.,0.627,0.936,0.215,0.18,0.731,0.191,0.132,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,False,low
+I read the FAQ but I'm still confused about returns.,0.269,0.355,0.446,0.327,0.256,0.36,0.321,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+My account has been charged incorrectly 5 times now. Fix this!,0.707,0.808,0.117,0.025,0.858,0.022,0.014,complaint,low,sad,calm,high,high,high,medium,True,low,slow,False,low
+Can you walk me through the process one more time?,0.004,0.483,0.495,0.441,0.189,0.44,0.332,clarification,high,reassuring,neutral,medium,low,low,low,False,medium,fast,False,high
+Excellent service! I'll definitely recommend you to others.,0.066,0.019,0.035,0.73,0.066,0.153,0.78,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.413,0.449,0.487,0.089,0.885,0.187,0.076,complaint,medium,neutral,neutral,medium,medium,high,medium,True,medium,normal,False,low
+Can you walk me through the process one more time?,0.062,0.149,0.446,0.61,0.293,0.512,0.113,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+"I was worried, but you fixed everything perfectly. Thank you!",0.097,0.08,0.059,0.994,0.06,0.116,0.924,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I need to speak to a supervisor immediately.,0.906,0.863,0.251,0.068,0.964,0.067,0.074,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+Your support team is fantastic. Keep up the great work!,0.043,0.044,0.123,0.983,0.024,0.024,0.759,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I've had enough of the runaround. Escalate this immediately.,0.943,0.858,0.314,0.163,0.931,0.254,0.184,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,True,low
+How do I update my account information?,0.05,0.151,0.184,0.921,0.319,0.611,0.297,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I have a question about my recent bill. Can someone explain it?,0.035,0.109,0.394,0.969,0.113,0.366,0.14,inquiry,medium,neutral,neutral,low,medium,low,low,False,medium,normal,False,low
+I need to speak to a supervisor immediately.,0.863,0.927,0.285,0.101,0.92,0.22,0.108,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+How do I update my account information?,0.118,0.102,0.119,0.783,0.307,0.649,0.291,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.857,0.496,0.285,0.003,0.623,0.218,0.198,complaint,high,empathetic,calm,high,low,high,high,True,low,fast,True,low
+I have a question about my recent bill. Can someone explain it?,0.02,0.08,0.32,0.602,0.267,0.593,0.285,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+Why hasn't anyone fixed my problem yet? This is the 6th time I'm contacting you!,0.513,0.613,0.414,0.166,0.503,0.228,0.007,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+The error message says 'Invalid credentials'. What does this mean?,0.224,0.181,0.583,0.447,0.198,0.36,0.192,clarification,high,reassuring,neutral,low,low,low,low,False,high,fast,False,high
+I've had enough of the runaround. Escalate this immediately.,0.938,0.999,0.347,0.09,0.861,0.266,0.119,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,True,low
+This needs management attention. Regular support isn't cutting it.,0.696,0.765,0.478,0.001,0.81,0.107,0.159,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+Your team resolved my issue so quickly. Amazing!,0.009,0.059,0.096,0.893,0.006,0.116,0.868,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.736,0.762,0.371,0.241,0.635,0.248,0.1,complaint,medium,sad,calm,high,medium,high,medium,True,medium,normal,False,low
+Thank you so much! Maria was incredibly helpful!,0.008,0.006,0.067,0.935,0.071,0.158,0.855,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I'm lost. Can you help me understand what went wrong?,0.132,0.159,0.331,0.474,0.127,0.388,0.279,clarification,high,reassuring,neutral,low,low,low,low,False,medium,fast,False,high
+I've had enough of the runaround. Escalate this immediately.,0.868,0.999,0.573,0.129,0.711,0.191,0.157,escalation_request,low,sad,calm,high,high,high,high,True,high,slow,True,low
+What exactly do I need to do to resolve this issue?,0.036,0.264,0.536,0.454,0.272,0.535,0.155,clarification,medium,reassuring,neutral,low,medium,low,low,False,high,normal,False,high
+Your representatives have been unhelpful. Get me a manager now.,0.681,0.734,0.21,0.005,0.916,0.082,0.104,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+What's the expected delivery time for international orders?,0.06,0.188,0.104,0.715,0.362,0.637,0.156,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.901,0.783,0.393,0.027,0.54,0.218,0.099,escalation_request,low,sad,calm,high,high,high,high,True,medium,slow,True,low
+I demand to speak with someone who can actually help me.,0.718,0.892,0.506,0.032,0.805,0.041,0.15,escalation_request,medium,sad,calm,high,medium,high,high,True,high,normal,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.794,0.974,0.128,0.017,0.641,0.079,0.049,complaint,low,sad,calm,high,high,high,medium,True,low,slow,False,low
+I'm extremely disappointed with your service. My order #11111 is wrong item.,0.944,0.55,0.209,0.228,0.725,0.233,0.013,complaint,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+What are the available options for billing?,0.098,0.007,0.025,0.953,0.142,0.513,0.223,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.674,0.96,0.209,0.133,0.982,0.168,0.187,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+I'm so grateful for your help. You made my day!,0.005,0.042,0.052,0.919,0.098,0.051,0.896,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.519,0.739,0.286,0.292,0.804,0.105,0.023,complaint,medium,empathetic,calm,high,medium,high,medium,True,low,normal,False,low
+I've had enough of the runaround. Escalate this immediately.,0.576,0.69,0.3,0.17,0.781,0.157,0.023,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+Your support team is fantastic. Keep up the great work!,0.086,0.072,0.014,0.912,0.054,0.016,0.837,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.691,0.499,0.478,0.255,0.835,0.139,0.082,complaint,low,neutral,calm,high,high,high,medium,True,medium,slow,False,low
+I'd like to know more about your starter service. Can you help?,0.13,0.109,0.025,0.756,0.342,0.484,0.116,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I'm extremely disappointed with your service. My order #13579 is missing.,0.872,0.521,0.203,0.049,0.665,0.227,0.104,complaint,high,sad,calm,high,low,high,high,True,low,fast,True,low
+My account has been charged incorrectly 2 times now. Fix this!,0.523,0.927,0.452,0.261,0.619,0.135,0.197,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+I read the FAQ but I'm still confused about upgrades.,0.232,0.111,0.226,0.486,0.373,0.515,0.249,clarification,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,high
+How do I update my account information?,0.021,0.131,0.329,0.69,0.333,0.686,0.161,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+I demand to speak with someone who can actually help me.,0.762,0.715,0.517,0.116,0.817,0.239,0.079,escalation_request,high,empathetic,calm,high,low,high,high,True,high,fast,False,low
+What are your business hours for customer support?,0.183,0.107,0.063,0.848,0.338,0.427,0.357,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.953,0.711,0.593,0.028,0.601,0.055,0.179,escalation_request,high,sad,calm,high,low,high,high,True,high,fast,True,low
+I appreciate the prompt response. You guys are great!,0.065,0.015,0.088,0.885,0.008,0.176,0.941,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I want this escalated to your highest level. This is unacceptable.,0.753,0.987,0.367,0.197,0.834,0.19,0.033,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.265,0.271,0.265,0.305,0.268,0.511,0.316,clarification,high,calm,neutral,low,low,low,low,False,low,fast,False,high
+I want to file a formal complaint and speak to a supervisor.,0.945,0.632,0.493,0.037,0.929,0.246,0.108,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,True,low
+My account has been charged incorrectly 4 times now. Fix this!,0.826,0.589,0.288,0.246,0.73,0.107,0.099,complaint,medium,sad,calm,high,medium,high,high,True,low,normal,True,low
+The error message says 'Connection timeout'. What does this mean?,0.248,0.234,0.27,0.585,0.348,0.34,0.172,clarification,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,high
+This has gone on too long. Please escalate my case to management.,0.571,0.739,0.38,0.15,0.826,0.186,0.07,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+What are your business hours for customer support?,0.168,0.094,0.392,0.817,0.138,0.57,0.198,inquiry,medium,neutral,neutral,low,medium,low,low,False,medium,normal,False,low
+The error message says 'Access denied'. What does this mean?,0.206,0.128,0.27,0.642,0.168,0.635,0.184,clarification,high,neutral,neutral,low,low,low,low,False,low,fast,False,high
+Can you walk me through the process one more time?,0.193,0.378,0.405,0.422,0.164,0.313,0.191,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+I'm lost. Can you help me understand what went wrong?,0.196,0.475,0.548,0.606,0.337,0.566,0.178,clarification,low,calm,neutral,medium,high,low,low,False,high,slow,False,high
+Excellent service! I'll definitely recommend you to others.,0.091,0.067,0.112,0.733,0.045,0.092,0.959,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I'm lost. Can you help me understand what went wrong?,0.164,0.252,0.591,0.344,0.227,0.317,0.322,clarification,low,reassuring,neutral,low,high,low,low,False,high,slow,False,high
+I'm interested in learning about your pricing plans.,0.184,0.056,0.343,0.646,0.373,0.602,0.341,inquiry,high,neutral,neutral,low,low,low,low,False,medium,fast,False,low
+Your team resolved my issue so quickly. Amazing!,0.002,0.096,0.145,0.791,0.083,0.056,0.962,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+This is unacceptable! I've been waiting for 5 days and still no response.,0.468,0.822,0.316,0.029,0.621,0.004,0.094,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+This needs management attention. Regular support isn't cutting it.,0.651,0.839,0.319,0.06,0.872,0.014,0.181,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+I followed your advice but it didn't work. What am I missing?,0.256,0.367,0.437,0.657,0.156,0.332,0.172,clarification,high,reassuring,neutral,medium,low,low,low,False,medium,fast,False,high
+My account has been charged incorrectly 5 times now. Fix this!,0.877,0.421,0.333,0.299,0.928,0.156,0.013,complaint,medium,empathetic,calm,high,medium,high,high,True,medium,normal,True,low
+How do I update my account information?,0.166,0.12,0.046,0.547,0.373,0.568,0.349,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+What exactly do I need to do to resolve this issue?,0.264,0.329,0.407,0.472,0.195,0.474,0.332,clarification,high,reassuring,neutral,medium,low,low,low,False,medium,fast,False,high
+The error message says 'Invalid credentials'. What does this mean?,0.181,0.457,0.377,0.543,0.289,0.537,0.311,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+I read the FAQ but I'm still confused about billing.,0.071,0.305,0.242,0.454,0.246,0.561,0.385,clarification,high,neutral,neutral,medium,low,low,low,False,low,fast,False,high
+I demand to speak with someone who can actually help me.,0.8,0.897,0.403,0.127,0.535,0.076,0.072,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.736,0.618,0.256,0.055,0.986,0.099,0.096,escalation_request,high,empathetic,calm,high,low,high,high,True,low,fast,False,low
+I want this escalated to your highest level. This is unacceptable.,0.598,0.844,0.312,0.041,0.758,0.002,0.002,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+Excellent service! I'll definitely recommend you to others.,0.022,0.004,0.022,0.802,0.08,0.114,0.854,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+The error message says 'Access denied'. What does this mean?,0.088,0.473,0.359,0.335,0.285,0.346,0.204,clarification,high,calm,neutral,medium,low,low,low,False,medium,fast,False,high
+"If this isn't resolved today, I'm taking this to consumer protection.",0.754,0.95,0.397,0.14,0.996,0.039,0.055,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+"Hi, could you please tell me the status of my order #11111?",0.079,0.084,0.164,0.954,0.314,0.543,0.193,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Your support team is fantastic. Keep up the great work!,0.082,0.096,0.164,0.7,0.064,0.01,0.777,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I'd like to know more about your starter service. Can you help?,0.012,0.121,0.275,0.557,0.215,0.482,0.211,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+Can you walk me through the process one more time?,0.036,0.268,0.5,0.328,0.124,0.442,0.383,clarification,high,calm,neutral,low,low,low,low,False,medium,fast,False,high
+This is unacceptable! I've been waiting for 2 days and still no response.,0.801,0.807,0.245,0.178,0.505,0.191,0.183,complaint,low,sad,calm,high,high,high,high,True,low,slow,True,low
+This has gone on too long. Please escalate my case to management.,0.806,0.949,0.49,0.024,0.951,0.02,0.107,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,True,low
+I'm so grateful for your help. You made my day!,0.014,0.001,0.084,0.789,0.049,0.115,0.713,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I want to file a formal complaint and speak to a supervisor.,0.562,0.823,0.337,0.146,0.826,0.254,0.138,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,False,low
+I demand to speak with someone who can actually help me.,0.715,0.869,0.31,0.061,0.894,0.134,0.16,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+Nobody seems to care about my problem. I've been passed around 5 times.,0.893,0.915,0.467,0.129,0.659,0.175,0.074,complaint,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+My account has been charged incorrectly 3 times now. Fix this!,0.761,0.823,0.375,0.112,0.583,0.129,0.029,complaint,high,sad,calm,high,low,high,medium,True,medium,fast,False,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.945,0.738,0.262,0.005,0.823,0.191,0.068,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+I read the FAQ but I'm still confused about billing.,0.022,0.264,0.324,0.571,0.282,0.446,0.165,clarification,high,reassuring,neutral,low,low,low,low,False,medium,fast,False,high
+Your representatives have been unhelpful. Get me a manager now.,0.994,0.782,0.475,0.028,0.743,0.008,0.101,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,True,low
+Your representatives have been unhelpful. Get me a manager now.,0.982,0.754,0.216,0.006,0.694,0.048,0.005,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+Your product broke after just 3 days. I want a full refund immediately.,0.854,0.675,0.216,0.27,0.558,0.287,0.063,complaint,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+Your product broke after just 10 days. I want a full refund immediately.,0.933,0.762,0.431,0.295,0.644,0.288,0.078,complaint,high,empathetic,calm,high,low,high,high,True,medium,fast,True,low
+What are the available options for billing?,0.077,0.068,0.217,0.577,0.266,0.517,0.329,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I followed your advice but it didn't work. What am I missing?,0.25,0.276,0.321,0.404,0.158,0.323,0.203,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+Your team resolved my issue so quickly. Amazing!,0.027,0.097,0.112,0.804,0.058,0.028,0.833,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+This is unacceptable! I've been waiting for 3 days and still no response.,0.776,0.693,0.261,0.298,0.94,0.187,0.114,complaint,high,empathetic,calm,high,low,high,medium,True,low,fast,False,low
+I'm lost. Can you help me understand what went wrong?,0.186,0.181,0.358,0.316,0.243,0.517,0.168,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+I followed your advice but it didn't work. What am I missing?,0.289,0.464,0.489,0.513,0.361,0.352,0.337,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+I followed your advice but it didn't work. What am I missing?,0.037,0.418,0.31,0.651,0.383,0.36,0.239,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+This has gone on too long. Please escalate my case to management.,0.99,0.793,0.545,0.118,0.688,0.086,0.041,escalation_request,high,empathetic,calm,high,low,high,high,True,high,fast,True,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.881,0.755,0.405,0.098,0.789,0.26,0.196,escalation_request,medium,empathetic,calm,high,medium,high,high,True,medium,normal,True,low
+Your representatives have been unhelpful. Get me a manager now.,0.704,0.931,0.506,0.115,0.978,0.06,0.022,escalation_request,high,empathetic,calm,high,low,high,high,True,high,fast,False,low
+Excellent service! I'll definitely recommend you to others.,0.085,0.044,0.169,0.968,0.006,0.177,0.834,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+I've spent 5 hours trying to resolve this issue with no success.,0.706,0.776,0.471,0.006,0.738,0.206,0.145,complaint,low,sad,calm,high,high,high,medium,True,medium,slow,False,low
+I've spent 2 hours trying to resolve this issue with no success.,0.816,0.481,0.22,0.108,0.902,0.084,0.042,complaint,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+I followed your advice but it didn't work. What am I missing?,0.287,0.104,0.599,0.571,0.349,0.418,0.104,clarification,high,calm,neutral,low,low,low,low,False,high,fast,False,high
+What are your business hours for customer support?,0.148,0.167,0.296,0.571,0.326,0.608,0.298,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Kudos to your team for going above and beyond!,0.077,0.085,0.123,0.727,0.049,0.016,0.822,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I want to file a formal complaint and speak to a supervisor.,0.704,0.626,0.34,0.022,0.904,0.284,0.014,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+This needs management attention. Regular support isn't cutting it.,0.978,0.809,0.32,0.015,0.75,0.238,0.141,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+I'm extremely disappointed with your service. My order #11111 is missing.,0.43,0.444,0.261,0.089,0.616,0.084,0.161,complaint,high,calm,neutral,medium,low,high,medium,True,low,fast,False,low
+Your representatives have been unhelpful. Get me a manager now.,0.965,0.762,0.562,0.064,0.738,0.068,0.128,escalation_request,medium,sad,calm,high,medium,high,high,True,high,normal,True,low
+Can you walk me through the process one more time?,0.294,0.341,0.343,0.559,0.137,0.655,0.251,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+This has gone on too long. Please escalate my case to management.,0.725,0.834,0.45,0.014,0.841,0.073,0.143,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,False,low
+I want this escalated to your highest level. This is unacceptable.,0.911,0.922,0.421,0.104,0.571,0.233,0.054,escalation_request,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+I have a question about my recent bill. Can someone explain it?,0.099,0.057,0.054,0.815,0.116,0.599,0.195,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I'm extremely disappointed with your service. My order #12345 is wrong item.,0.4,0.707,0.119,0.083,0.853,0.019,0.168,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+My account has been charged incorrectly 3 times now. Fix this!,0.402,0.548,0.396,0.095,0.551,0.108,0.054,complaint,high,calm,neutral,medium,low,high,medium,True,medium,fast,False,low
+Your support team is fantastic. Keep up the great work!,0.084,0.031,0.158,0.968,0.043,0.182,0.813,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Kudos to your team for going above and beyond!,0.096,0.009,0.137,0.848,0.039,0.127,0.911,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+My account has been charged incorrectly 5 times now. Fix this!,0.403,0.5,0.385,0.2,0.983,0.228,0.19,complaint,medium,neutral,neutral,medium,medium,high,medium,True,medium,normal,False,low
+Nobody seems to care about my problem. I've been passed around 4 times.,0.822,0.579,0.142,0.235,0.822,0.014,0.072,complaint,medium,sad,calm,high,medium,high,high,True,low,normal,True,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.974,0.7,0.273,0.137,0.604,0.111,0.074,complaint,high,empathetic,calm,high,low,high,high,True,low,fast,True,low
+I have a question about my recent bill. Can someone explain it?,0.01,0.154,0.167,0.911,0.355,0.385,0.297,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+Is it possible to change my subscription to the basic plan?,0.094,0.176,0.086,0.839,0.282,0.418,0.141,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+The error message says 'Access denied'. What does this mean?,0.195,0.395,0.326,0.558,0.219,0.585,0.16,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+How do I update my account information?,0.178,0.057,0.147,0.529,0.133,0.506,0.18,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+"I was worried, but you fixed everything perfectly. Thank you!",0.084,0.001,0.076,0.801,0.002,0.025,0.824,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.696,0.643,0.312,0.179,0.505,0.139,0.193,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.711,0.807,0.225,0.232,0.886,0.156,0.195,complaint,low,sad,calm,high,high,high,medium,True,low,slow,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.038,0.107,0.508,0.623,0.136,0.406,0.105,clarification,medium,calm,neutral,low,medium,low,low,False,high,normal,False,high
+What's the expected delivery time for international orders?,0.059,0.155,0.207,0.674,0.212,0.301,0.19,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+"Hi, could you please tell me the status of my order #12345?",0.129,0.195,0.339,0.512,0.37,0.613,0.334,inquiry,high,neutral,neutral,low,low,low,low,False,medium,fast,False,low
+I'm so grateful for your help. You made my day!,0.046,0.04,0.061,0.72,0.023,0.049,0.845,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+"If this isn't resolved today, I'm taking this to consumer protection.",0.874,0.79,0.223,0.192,0.971,0.236,0.198,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+I read the FAQ but I'm still confused about billing.,0.163,0.485,0.23,0.446,0.168,0.378,0.142,clarification,medium,neutral,neutral,medium,medium,low,low,False,low,normal,False,high
+Why hasn't anyone fixed my problem yet? This is the 3rd time I'm contacting you!,0.773,0.869,0.331,0.044,0.906,0.191,0.078,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+Can you walk me through the process one more time?,0.202,0.204,0.338,0.667,0.187,0.488,0.367,clarification,medium,reassuring,neutral,low,medium,low,low,False,medium,normal,False,high
+I've had enough of the runaround. Escalate this immediately.,0.854,0.625,0.259,0.002,0.815,0.134,0.027,escalation_request,high,sad,calm,high,low,high,high,True,low,fast,True,low
+What exactly do I need to do to resolve this issue?,0.287,0.312,0.297,0.5,0.304,0.33,0.182,clarification,low,neutral,neutral,medium,high,low,low,False,low,slow,False,high
+The quality of your service has gone downhill. Very frustrated customer here.,0.884,0.676,0.319,0.13,0.522,0.05,0.089,complaint,medium,empathetic,calm,high,medium,high,high,True,medium,normal,True,low
+I'm lost. Can you help me understand what went wrong?,0.063,0.12,0.537,0.692,0.338,0.642,0.173,clarification,high,reassuring,neutral,low,low,low,low,False,high,fast,False,high
+This was the best customer service experience I've ever had!,0.096,0.02,0.19,0.998,0.071,0.196,0.871,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.556,0.662,0.337,0.022,0.811,0.294,0.038,complaint,low,empathetic,calm,high,high,high,medium,True,medium,slow,False,low
+Thank you so much! John was incredibly helpful!,0.079,0.091,0.189,0.988,0.052,0.195,0.927,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I followed your advice but it didn't work. What am I missing?,0.049,0.291,0.487,0.399,0.292,0.567,0.149,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+I read the FAQ but I'm still confused about billing.,0.17,0.409,0.4,0.305,0.103,0.443,0.378,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+The quality of your service has gone downhill. Very frustrated customer here.,0.537,0.781,0.189,0.097,0.924,0.219,0.019,complaint,medium,empathetic,calm,high,medium,high,medium,True,low,normal,False,low
+What's the expected delivery time for express delivery?,0.086,0.006,0.192,0.831,0.136,0.416,0.219,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+How do I update my account information?,0.184,0.199,0.018,0.881,0.212,0.457,0.326,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+Can you walk me through the process one more time?,0.276,0.48,0.431,0.443,0.336,0.4,0.269,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+This is unacceptable! I've been waiting for 7 days and still no response.,0.615,0.794,0.196,0.057,0.959,0.031,0.101,complaint,medium,empathetic,calm,high,medium,high,medium,True,low,normal,False,low
+Nobody seems to care about my problem. I've been passed around 5 times.,0.533,0.423,0.114,0.053,0.933,0.085,0.19,complaint,medium,neutral,neutral,medium,medium,high,medium,True,low,normal,False,low
+I'm so grateful for your help. You made my day!,0.058,0.044,0.116,0.855,0.076,0.056,0.806,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Can you walk me through the process one more time?,0.268,0.479,0.557,0.468,0.334,0.491,0.249,clarification,low,calm,neutral,medium,high,low,low,False,high,slow,False,high
+I'm lost. Can you help me understand what went wrong?,0.061,0.336,0.274,0.433,0.357,0.383,0.121,clarification,low,neutral,neutral,medium,high,low,low,False,low,slow,False,high
+"If this isn't resolved today, I'm taking this to consumer protection.",0.535,0.976,0.403,0.082,0.905,0.251,0.066,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+I'm extremely disappointed with your service. My order #67890 is wrong item.,0.816,0.863,0.362,0.045,0.938,0.162,0.056,complaint,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+I'm so grateful for your help. You made my day!,0.043,0.004,0.026,0.93,0.0,0.083,0.857,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I read the FAQ but I'm still confused about shipping.,0.016,0.489,0.29,0.422,0.191,0.392,0.1,clarification,high,neutral,neutral,medium,low,low,low,False,low,fast,False,high
+The instructions are confusing. Can you explain step 2 again?,0.219,0.487,0.29,0.565,0.323,0.639,0.227,clarification,low,neutral,neutral,medium,high,low,low,False,low,slow,False,high
+I appreciate the prompt response. You guys are great!,0.03,0.033,0.143,0.945,0.018,0.074,0.971,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I followed your advice but it didn't work. What am I missing?,0.242,0.494,0.502,0.457,0.277,0.564,0.124,clarification,medium,calm,neutral,medium,medium,low,low,False,high,normal,False,high
+I can't believe how poorly I've been treated. This is ridiculous!,0.727,0.826,0.167,0.234,0.792,0.286,0.008,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+What are the available options for billing?,0.053,0.12,0.119,0.857,0.328,0.341,0.254,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I have a question about my recent bill. Can someone explain it?,0.102,0.074,0.373,0.914,0.309,0.586,0.239,inquiry,high,neutral,neutral,low,low,low,low,False,medium,fast,False,low
+This needs management attention. Regular support isn't cutting it.,0.96,0.878,0.492,0.172,0.637,0.242,0.039,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+Your support team is fantastic. Keep up the great work!,0.035,0.034,0.196,0.957,0.07,0.145,0.869,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I read the FAQ but I'm still confused about shipping.,0.284,0.299,0.352,0.365,0.336,0.594,0.215,clarification,high,calm,neutral,low,low,low,low,False,medium,fast,False,high
+I've had enough of the runaround. Escalate this immediately.,0.513,0.936,0.205,0.141,0.985,0.131,0.047,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,False,low
+I want this escalated to your highest level. This is unacceptable.,0.852,0.927,0.419,0.193,0.526,0.151,0.144,escalation_request,high,sad,calm,high,low,high,high,True,medium,fast,True,low
+Kudos to your team for going above and beyond!,0.086,0.018,0.16,0.866,0.04,0.026,0.96,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+This was the best customer service experience I've ever had!,0.016,0.031,0.058,0.961,0.067,0.159,0.775,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I need to speak to a supervisor immediately.,0.812,0.829,0.533,0.181,0.506,0.202,0.01,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,True,low
+The instructions are confusing. Can you explain step 2 again?,0.165,0.215,0.323,0.441,0.286,0.434,0.32,clarification,medium,reassuring,neutral,low,medium,low,low,False,medium,normal,False,high
+"I was worried, but you fixed everything perfectly. Thank you!",0.04,0.007,0.157,0.786,0.043,0.137,0.8,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+This needs management attention. Regular support isn't cutting it.,0.528,0.75,0.578,0.128,0.836,0.19,0.04,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,False,low
+Thank you so much! David was incredibly helpful!,0.042,0.075,0.02,0.783,0.028,0.086,0.994,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I appreciate the prompt response. You guys are great!,0.007,0.052,0.036,0.991,0.011,0.081,0.921,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+I'm not tech-savvy. Could you explain this in simpler terms?,0.211,0.269,0.339,0.459,0.179,0.382,0.245,clarification,high,reassuring,neutral,low,low,low,low,False,medium,fast,False,high
+Thank you so much! David was incredibly helpful!,0.027,0.029,0.131,0.991,0.06,0.015,0.723,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+I'm extremely disappointed with your service. My order #11111 is missing.,0.971,0.578,0.137,0.18,0.812,0.195,0.053,complaint,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+I have a question about my recent bill. Can someone explain it?,0.003,0.193,0.1,0.838,0.312,0.544,0.194,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I want to file a formal complaint and speak to a supervisor.,0.636,0.839,0.546,0.189,0.553,0.046,0.189,escalation_request,high,empathetic,calm,high,low,high,high,True,high,fast,False,low
+Kudos to your team for going above and beyond!,0.074,0.088,0.041,0.876,0.07,0.136,0.822,praise,low,friendly,friendly,low,high,low,low,False,low,slow,False,low
+Can you walk me through the process one more time?,0.005,0.333,0.301,0.48,0.387,0.46,0.352,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+This needs management attention. Regular support isn't cutting it.,0.594,0.869,0.591,0.02,0.504,0.13,0.019,escalation_request,medium,empathetic,calm,high,medium,high,high,True,high,normal,False,low
+My account has been charged incorrectly 2 times now. Fix this!,0.849,0.949,0.274,0.078,0.717,0.217,0.002,complaint,high,sad,calm,high,low,high,high,True,low,fast,True,low
+The quality of your service has gone downhill. Very frustrated customer here.,0.754,0.768,0.355,0.073,0.857,0.027,0.04,complaint,high,sad,calm,high,low,high,medium,True,medium,fast,False,low
+I'm lost. Can you help me understand what went wrong?,0.263,0.395,0.205,0.399,0.164,0.408,0.174,clarification,high,calm,neutral,medium,low,low,low,False,low,fast,False,high
+I'd like to know more about your basic service. Can you help?,0.013,0.092,0.293,0.803,0.302,0.332,0.385,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Can you walk me through the process one more time?,0.252,0.422,0.529,0.673,0.263,0.38,0.285,clarification,medium,calm,neutral,medium,medium,low,low,False,high,normal,False,high
+I just wanted to say how impressed I am with your service.,0.074,0.074,0.104,0.721,0.037,0.184,0.875,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+Can you walk me through the process one more time?,0.161,0.208,0.347,0.658,0.3,0.615,0.236,clarification,high,reassuring,neutral,low,low,low,low,False,medium,fast,False,high
+What exactly do I need to do to resolve this issue?,0.189,0.199,0.482,0.471,0.233,0.56,0.381,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+The quality of your service has gone downhill. Very frustrated customer here.,0.438,0.895,0.217,0.133,0.511,0.09,0.101,complaint,high,empathetic,calm,high,low,high,medium,True,low,fast,False,low
+Thank you so much! Maria was incredibly helpful!,0.006,0.049,0.185,0.732,0.076,0.082,0.897,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+"Sorry, I'm not sure what you mean by 'webhook'. Can you explain?",0.078,0.164,0.264,0.328,0.156,0.566,0.365,clarification,low,neutral,neutral,low,high,low,low,False,low,slow,False,high
+Your representatives have been unhelpful. Get me a manager now.,0.907,0.874,0.244,0.058,0.655,0.075,0.103,escalation_request,low,empathetic,calm,high,high,high,high,True,low,slow,True,low
+Could you explain how the auto-renewal feature works?,0.107,0.071,0.142,0.914,0.337,0.423,0.374,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+"I was worried, but you fixed everything perfectly. Thank you!",0.095,0.033,0.071,0.852,0.094,0.175,0.731,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+My account has been charged incorrectly 3 times now. Fix this!,0.636,0.732,0.301,0.058,0.929,0.203,0.168,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+Your team resolved my issue so quickly. Amazing!,0.086,0.075,0.088,0.883,0.016,0.135,0.754,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+What are your business hours for customer support?,0.139,0.046,0.047,0.583,0.101,0.587,0.32,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I have a question about my recent bill. Can someone explain it?,0.103,0.032,0.033,0.51,0.15,0.656,0.172,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+My account has been charged incorrectly 3 times now. Fix this!,0.613,0.463,0.189,0.156,0.804,0.074,0.012,complaint,medium,neutral,calm,high,medium,high,medium,True,low,normal,False,low
+I want this escalated to your highest level. This is unacceptable.,0.696,0.694,0.288,0.192,0.808,0.167,0.083,escalation_request,high,empathetic,calm,high,low,high,high,True,low,fast,False,low
+I want to file a formal complaint and speak to a supervisor.,0.714,0.816,0.479,0.14,0.586,0.15,0.082,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+"Sorry, I'm not sure what you mean by 'webhook'. Can you explain?",0.261,0.353,0.413,0.346,0.282,0.347,0.201,clarification,medium,reassuring,neutral,medium,medium,low,low,False,medium,normal,False,high
+Excellent service! I'll definitely recommend you to others.,0.014,0.069,0.041,0.818,0.09,0.041,0.852,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+What exactly do I need to do to resolve this issue?,0.126,0.107,0.517,0.328,0.242,0.524,0.289,clarification,medium,reassuring,neutral,low,medium,low,low,False,high,normal,False,high
+What are your business hours for customer support?,0.138,0.051,0.004,0.862,0.261,0.634,0.346,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+"Hi, could you please tell me the status of my order #13579?",0.169,0.097,0.133,0.896,0.235,0.373,0.356,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+The instructions are confusing. Can you explain step 2 again?,0.265,0.287,0.23,0.455,0.341,0.661,0.161,clarification,high,neutral,neutral,low,low,low,low,False,low,fast,False,high
+I followed your advice but it didn't work. What am I missing?,0.02,0.451,0.356,0.517,0.39,0.327,0.294,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+What exactly do I need to do to resolve this issue?,0.022,0.25,0.522,0.473,0.399,0.524,0.196,clarification,medium,calm,neutral,low,medium,low,low,False,high,normal,False,high
+Your representatives have been unhelpful. Get me a manager now.,0.61,0.74,0.349,0.014,0.685,0.139,0.145,escalation_request,low,empathetic,calm,high,high,high,high,True,medium,slow,False,low
+I need to speak to a supervisor immediately.,0.828,0.884,0.203,0.044,0.831,0.145,0.001,escalation_request,medium,sad,calm,high,medium,high,high,True,low,normal,True,low
+This is the worst customer experience I've ever had. Completely unacceptable.,0.883,0.864,0.319,0.02,0.883,0.175,0.156,complaint,medium,sad,calm,high,medium,high,high,True,medium,normal,True,low
+I'd like to know more about your enterprise service. Can you help?,0.15,0.161,0.207,0.57,0.301,0.548,0.323,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+Is it possible to change my subscription to the premium plan?,0.034,0.039,0.356,0.875,0.372,0.603,0.279,inquiry,low,neutral,neutral,low,high,low,low,False,medium,slow,False,low
+I followed your advice but it didn't work. What am I missing?,0.196,0.456,0.432,0.553,0.147,0.49,0.315,clarification,low,reassuring,neutral,medium,high,low,low,False,medium,slow,False,high
+I've spent 3 hours trying to resolve this issue with no success.,0.563,0.521,0.226,0.072,0.607,0.127,0.182,complaint,medium,neutral,neutral,medium,medium,high,medium,True,low,normal,False,low
+This needs management attention. Regular support isn't cutting it.,0.754,0.675,0.231,0.139,0.691,0.247,0.132,escalation_request,medium,empathetic,calm,high,medium,high,high,True,low,normal,False,low
+I can't believe how poorly I've been treated. This is ridiculous!,0.878,0.563,0.377,0.079,0.97,0.191,0.065,complaint,low,empathetic,calm,high,high,high,high,True,medium,slow,True,low
+What are your business hours for customer support?,0.054,0.038,0.278,0.609,0.279,0.406,0.299,inquiry,high,neutral,neutral,low,low,low,low,False,low,fast,False,low
+I just wanted to say how impressed I am with your service.,0.081,0.078,0.152,0.756,0.009,0.14,0.811,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+The error message says 'Connection timeout'. What does this mean?,0.13,0.112,0.304,0.313,0.364,0.397,0.267,clarification,low,reassuring,neutral,low,high,low,low,False,medium,slow,False,high
+The quality of your service has gone downhill. Very frustrated customer here.,0.423,0.8,0.229,0.269,0.944,0.098,0.18,complaint,low,empathetic,calm,high,high,high,medium,True,low,slow,False,low
+I just wanted to say how impressed I am with your service.,0.1,0.083,0.169,0.775,0.058,0.013,0.728,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Nobody seems to care about my problem. I've been passed around 2 times.,0.999,0.596,0.399,0.242,0.929,0.299,0.048,complaint,medium,empathetic,calm,high,medium,high,high,True,medium,normal,True,low
+What's the expected delivery time for international orders?,0.008,0.082,0.052,0.511,0.208,0.613,0.27,inquiry,medium,neutral,neutral,low,medium,low,low,False,low,normal,False,low
+I appreciate the prompt response. You guys are great!,0.031,0.065,0.046,0.704,0.076,0.125,0.929,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+Your team resolved my issue so quickly. Amazing!,0.004,0.084,0.124,0.869,0.062,0.173,0.876,praise,medium,friendly,friendly,low,medium,low,low,False,low,normal,False,low
+My account has been charged incorrectly 2 times now. Fix this!,0.749,0.994,0.403,0.133,0.854,0.117,0.046,complaint,high,empathetic,calm,high,low,high,medium,True,medium,fast,False,low
+I need to speak to a supervisor immediately.,0.798,0.971,0.572,0.068,0.764,0.063,0.199,escalation_request,medium,sad,calm,high,medium,high,high,True,high,normal,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.294,0.36,0.522,0.586,0.278,0.321,0.236,clarification,medium,reassuring,neutral,medium,medium,low,low,False,high,normal,False,high
+Your product broke after just 14 days. I want a full refund immediately.,0.805,0.807,0.249,0.283,0.584,0.15,0.138,complaint,medium,empathetic,calm,high,medium,high,high,True,low,normal,True,low
+Kudos to your team for going above and beyond!,0.07,0.065,0.055,0.747,0.064,0.12,0.754,praise,high,friendly,friendly,low,low,low,low,False,low,fast,False,low
+Is it possible to change my subscription to the basic plan?,0.141,0.091,0.267,0.919,0.151,0.308,0.334,inquiry,low,neutral,neutral,low,high,low,low,False,low,slow,False,low
+I followed your advice but it didn't work. What am I missing?,0.183,0.38,0.535,0.621,0.388,0.514,0.247,clarification,high,reassuring,neutral,medium,low,low,low,False,high,fast,False,high
+I demand to speak with someone who can actually help me.,0.701,0.661,0.429,0.055,0.961,0.175,0.119,escalation_request,high,empathetic,calm,high,low,high,high,True,medium,fast,False,low
+I've spent 2 hours trying to resolve this issue with no success.,0.613,0.431,0.113,0.127,0.542,0.182,0.176,complaint,high,calm,calm,high,low,high,medium,True,low,fast,False,low
+I don't understand the email you sent. Could you clarify what you mean?,0.265,0.364,0.284,0.645,0.366,0.379,0.321,clarification,low,neutral,neutral,medium,high,low,low,False,low,slow,False,high
